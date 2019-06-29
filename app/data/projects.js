@@ -1,4 +1,3 @@
-// TODO Add a couple lines about each project
 const data = [
   {
     title: 'Axon',
@@ -29,14 +28,6 @@ const data = [
     desc: 'React | GraphQL | PostgreSQL'
   },
   {
-    title: 'SpaceX Launch Missions',
-    subtitle: 'Tracking successful and failed SpaceX rocket launches.',
-    link: 'https://spacex-missions-gql.herokuapp.com/',
-    image: '/images/projects/spacex2.jpg',
-    date: '2019-06-25',
-    desc: 'A React client using GraphQL with Apollo to query the SpaceX API.'
-  },
-  {
     title: 'Lyrica',
     subtitle: 'Search for lyrics to any song',
     link: '#',
@@ -45,13 +36,38 @@ const data = [
     desc: 'Search for lyrics to any song.'
   },
   {
+    title: 'SpaceX Launch Missions',
+    subtitle: 'Tracking successful and failed SpaceX rocket launches.',
+    link: 'https://spacex-missions-gql.herokuapp.com/',
+    image: '/images/projects/spacex.jpg',
+    date: '2019-06-25',
+    desc: 'A React client using GraphQL with Apollo to query the SpaceX API.'
+  },
+  {
     title: 'Contact Organizer',
     subtitle: '',
     link: 'https://lucsaunders.github.io/contact-organizer',
     image: '/images/projects/contactorganizer.jpg',
     date: '2019-03-25',
     desc: 'Manage personal contacts.'
+  },
+  {
+    title: 'Client Manager',
+    subtitle: '',
+    link: '#',
+    image: '/images/projects/clientmanager.jpg',
+    date: '2019-06-27',
+    desc: 'A React-Redux app for managing business finances.'
   }
+  // {
+  //   title: 'The Social Writer',
+  //   subtitle: 'Connecting writers with other writers',
+  //   link: '#',
+  //   image: '/images/projects/socialwriter.jpg',
+  //   date: '2019-06-27',
+  //   desc:
+  //     'For writers who use GitHub. A fullstack MERN app utlizing the GitHub API.'
+  // }
 ];
 
 export default data;
