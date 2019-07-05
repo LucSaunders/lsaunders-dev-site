@@ -8,17 +8,17 @@ export const githubKeys = ['repos', 'pushed_at'];
 // TODO To be provided by an API
 const data = [
   {
-    label: 'Number of GitHub repositories',
+    label: 'GitHub repositories',
     key: 'repos',
     value: '30+',
     link: 'https://github.com/lucsaunders/personal-site/network'
   },
   {
-    label: 'Number of commits this year',
+    label: ' commits this year',
     value: '250+'
   },
   {
-    label: 'Number of projects deployed',
+    label: 'Projects deployed',
     key: 'deployedProjects',
     value: '5',
     link: 'https://github.com/lucsaunders/personal-site/network'

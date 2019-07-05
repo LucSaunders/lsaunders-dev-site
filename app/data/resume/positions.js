@@ -9,6 +9,7 @@ const positions = [
       'Developed optimized front-end apps by handling MVC data flow',
       'Engineered back-end apps and RESTful APIs using Node with Express',
       'Programmed 20+ web projects independently, via pair-programming, and in a team utilizing Agile methodologies',
+      'Performed extensive self-directed study of GraphQL and associated packages',
       'Completed projects integrating computer science principles and current industry best practices'
     ]
   },

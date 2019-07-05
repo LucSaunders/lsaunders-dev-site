@@ -29,11 +29,11 @@ const data = [
   },
   {
     title: 'Lyrica',
-    subtitle: 'Search for lyrics to any song',
+    subtitle: 'Search for song lyrics.',
     link: '#',
     image: '/images/projects/lyrica.jpg',
     date: '2019-06-27',
-    desc: 'Search for lyrics to any song.'
+    desc: 'Search for song lyrics.'
   },
   {
     title: 'SpaceX Launch Missions',

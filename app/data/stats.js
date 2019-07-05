@@ -10,7 +10,7 @@ const data = {
     //   'https://www.google.com/maps/d/embed?mid=...'
   },
   cats: {
-    label: 'Number of cats',
+    label: 'Cats',
     value: 2
   },
   // guitars: {
@@ -21,6 +21,10 @@ const data = {
     label: 'Publications',
     value: 5
   }
+  // upcoming: {
+  //   label: 'Articles in the hopper',
+  //   value: 5
+  // }
 };
 
 export default data;
