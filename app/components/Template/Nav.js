@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import data from '../../data/contact';
 
-const Nav = () => (
+const Nav = () => (git 
   <section id='sidebar'>
     <section id='intro'>
       <Link to='/' className='logo'>
@@ -22,19 +22,14 @@ const Nav = () => (
     <section className='blurb'>
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Luc. I like solving problems with creative logic. By
-        iterating through a thoughtfully designed loop, for instance. I also
-        like to create. That brings me joy. But some of the things I create, no
-        matter what I do, inevitably include problems. Which I like to try to
-        solve. With creative logic.
+        Hi, I&apos;m Luc. I like solving problems with creative logic. I also
+        like to create.
       </p>
       <p>
         I&apos;m a graduate of the University of North Carolina at Chapel Hill
         and the <a href='https://www.projectshift.io/'>Project Shift</a>{' '}
-        Software Engineering Fellowship. Those educational experiences were
-        invaluable, but through hard work and study, curiosity and play, and the
-        gift of infinite teachers both online and in person, my learning
-        continues...
+        Software Engineering Fellowship. Through the gift of innumerable
+        teachers both online and in person, my learning continues...
       </p>
       <ul className='actions'>
         <li>
