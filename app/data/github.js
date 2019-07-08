@@ -11,23 +11,23 @@ const data = [
     label: 'GitHub repositories',
     key: 'repos',
     value: '30+',
-    link: 'https://github.com/lucsaunders/personal-site/network'
+    link: 'https://github.com/lucsaunders'
   },
   {
-    label: ' commits this year',
+    label: 'Commits this year',
     value: '250+'
   },
   {
     label: 'Projects deployed',
     key: 'deployedProjects',
-    value: '5',
-    link: 'https://github.com/lucsaunders/personal-site/network'
+    value: '5'
+    // link: 'https://github.com/lucsaunders'
   },
   {
     label: 'This site last updated on',
     key: 'pushed_at',
     value: dayjs().format('MMMM D, YYYY'),
-    link: 'https://github.com/lucsaunders/personal-site/commits'
+    link: 'https://github.com/lucsaunders/lsaunders-dev-site'
   }
 ];
 
