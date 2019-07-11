@@ -1,6 +1,6 @@
 #### Intro
 
-I am a language and communication enthusiast. This has led me to work on publication efforts for the United Nations in Kenya; to develop a college-level English curriculum, then teach as an English instructor at a university in Thailand; and to serve as an editor for the independent literary magazine [_The Sun_](https://thesunmagazine.org).
+I am a language and communication enthusiast. This has led me to work on publication efforts for the United Nations in Kenya, to develop and teach a college-level English curriculum at a university in Thailand, and to serve as an editor for the independent literary magazine [_The Sun_](https://thesunmagazine.org).
 <br>
 <br>
 During my time at [_The Sun_](https://thesunmagazine.org), I collaborated with some of the most talented, reflective, inspiring writers working today. I specialized in long-form interviews with experts, thought leaders, and influencers in a variety of fields including [technology](https://thesunmagazine.org/issues/353/voodoo-electronics), [psychology](https://thesunmagazine.org/issues/496/an-open-mind), [spirituality](https://thesunmagazine.org/issues/384/who-hears-this-sound), [social activism](https://thesunmagazine.org/issues/513/prisoner-of-hope), and [environmental conservation](https://thesunmagazine.org/issues/497/a-walk-on-the-wild-side). My experiences at the magazine, I like to think, nourished within me tender sprouts of personal wisdom and empathy regarding the heartache and splendor of being human.  
