@@ -30,7 +30,7 @@ const data = [
   {
     title: 'Lyrica',
     subtitle: 'Search for song lyrics.',
-    link: '#',
+    link: 'https://lucsaunders.github.io/song-lyric-search/#/',
     image: '/images/projects/lyrica.jpg',
     date: '2019-06-27',
     desc: 'Search for song lyrics.'
@@ -47,6 +47,7 @@ const data = [
     title: 'Contact Organizer',
     subtitle: '',
     link: 'https://lucsaunders.github.io/contact-organizer',
+    // /contact-organizer/#/ ???
     image: '/images/projects/contactorganizer.jpg',
     date: '2019-03-25',
     desc: 'Manage personal contacts.'
