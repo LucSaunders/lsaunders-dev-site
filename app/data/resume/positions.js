@@ -3,7 +3,7 @@ const positions = [
     company: 'Project Shift',
     position: 'Fullstack Software Engineering Fellow',
     link: 'https://www.projectshift.io',
-    daterange: 'February 2019 - Present',
+    daterange: 'February 2019 - May 2019',
     points: [
       'Engaged in 800+ hours learning and developing full-stack apps in competitive full-time immersive certificate program',
       'Developed optimized front-end apps by handling MVC data flow',
@@ -17,7 +17,7 @@ const positions = [
     company: 'The Sun Magazine',
     position: 'Assistant Editor',
     link: 'https://www.thesunmagazine.org',
-    daterange: 'January 2012 - January 2019',
+    daterange: 'January 2012 - July 2019',
     points: [
       'Assisted on a major website redesign, a transition from print to digital media, and indexing',
       'Solicited work from writers, evaluated submissions, fact-checked and copyedited interview transcripts and prose manuscripts for publication in an independent, nationally-distributed monthly magazine with more than 75,000 subscribers',
