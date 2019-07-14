@@ -40,6 +40,10 @@ export const skills = [
     category: ['Frameworks']
   },
   {
+    title: 'Backbone.JS',
+    category: ['Frameworks']
+  },
+  {
     title: 'Bash',
     category: ['Tools', 'Languages']
   },

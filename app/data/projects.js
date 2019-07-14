@@ -16,8 +16,8 @@ const data = [
     date: '2019-03-31',
     desc:
       'Designed for music lovers on the go, when they find themselves in a new town. ' +
-      'Check out upcoming music events by location and preview YouTube clips of the performing artists listed, as an aid to making exciting evening plans in unfamiliar places. ' +
-      'First Listen was developed in a team of three Project Shift software engineering fellows. '
+      'Check out upcoming music events by location and preview YouTube clips of the performing artists, as an aid to making evening plans in unfamiliar places. ' +
+      'First Listen was developed in a team of three Project Shift software engineers: Jason Doss, Carson Poe, and myself.'
   },
   {
     title: 'Sherpa Book Review',
@@ -29,11 +29,11 @@ const data = [
   },
   {
     title: 'Lyrica',
-    subtitle: 'Search for song lyrics.',
+    subtitle: 'Search for song lyrics',
     link: 'https://lucsaunders.github.io/song-lyric-search/#/',
     image: '/images/projects/lyrica.jpg',
     date: '2019-06-27',
-    desc: 'Search for song lyrics.'
+    desc: 'Search for lyrics to almost any song.'
   },
   {
     title: 'SpaceX Launch Missions',
@@ -47,7 +47,6 @@ const data = [
     title: 'Contact Organizer',
     subtitle: '',
     link: 'https://lucsaunders.github.io/contact-organizer',
-    // /contact-organizer/#/ ???
     image: '/images/projects/contactorganizer.jpg',
     date: '2019-03-25',
     desc: 'Manage personal contacts.'
