@@ -51,14 +51,14 @@ const data = [
     date: '2019-03-25',
     desc: 'Manage personal contacts.'
   },
-  {
-    title: 'Client Manager',
-    subtitle: '',
-    link: '#',
-    image: '/images/projects/clientmanager.jpg',
-    date: '2019-06-27',
-    desc: 'A React-Redux app for managing business finances.'
-  }
+  // {
+  //   title: 'Client Manager',
+  //   subtitle: '',
+  //   link: '#',
+  //   image: '/images/projects/clientmanager.jpg',
+  //   date: '2019-06-27',
+  //   desc: 'A React-Redux app for managing business finances.'
+  // }
   // {
   //   title: 'The Social Writer',
   //   subtitle: 'Connecting writers with other writers',
