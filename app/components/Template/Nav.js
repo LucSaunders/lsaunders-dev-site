@@ -17,31 +17,16 @@ const Nav = () => (
     </section>
 
     <section className='blurb'>
-      <h2>About</h2>
       <p>
-        Hi, I&apos;m Luc. I like solving problems, and I like to create. I like
-        to write, and I like to code. I work primarily in the MERN stack.
-        I&apos;m a graduate of the{' '}
+        Hi, I&apos;m Luc. I like solving problems through creativity and code. I
+        work primarily in React, REST / GraphQL, and Node, with relational and
+        NoSQL databases. I&apos;m a graduate of the{' '}
         <a href='https://www.unc.edu/'>
           University of North Carolina at Chapel Hill
         </a>{' '}
         and the <a href='https://www.projectshift.io/'>Project Shift</a>{' '}
         Software Engineering Fellowship.
       </p>
-
-      <ul className='actions'>
-        <li>
-          {window.location.pathname !== `${BASE_PATH}/resume` ? (
-            <Link to='/resume' className='button'>
-              Learn More
-            </Link>
-          ) : (
-            <Link to='/about' className='button'>
-              About Me
-            </Link>
-          )}
-        </li>
-      </ul>
     </section>
 
     <section id='footer'>
