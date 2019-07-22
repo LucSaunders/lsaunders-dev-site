@@ -20,7 +20,6 @@ const Index = () => (
         or view my <Link to='/resume'>resume</Link>, my{' '}
         <Link to='/projects'>projects</Link>, or my{' '}
         <Link to='/stats'> personal stats</Link>.
-        {/* or <Link to="/contact">contact</Link> me. */}
       </p>
       <p>
         {' '}

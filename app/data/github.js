@@ -1,17 +1,16 @@
 import dayjs from 'dayjs';
 
-/* Keys returned by the github api. The other keys in the array below
- * are mostly jokes. These are the keys the github api query searches for.
+/* Keys returned by the github api. These are the keys the github api query searches for.
  */
 export const githubKeys = ['repos', 'pushed_at'];
 
-// TODO To be provided by an API
+// TODO: To be provided by an API
 const data = [
   {
     label: 'GitHub repositories',
     key: 'repos',
     value: '30+',
-    link: 'https://github.com/lucsaunders'
+    link: 'https://github.com/LucSaunders?tab=repositories'
   },
   {
     label: 'Commits this year',
@@ -20,8 +19,8 @@ const data = [
   {
     label: 'Projects deployed',
     key: 'deployedProjects',
-    value: '5'
-    // link: 'https://github.com/lucsaunders'
+    value: '5',
+    link: 'https://github.com/lucsaunders'
   },
   {
     label: 'This site last updated on',

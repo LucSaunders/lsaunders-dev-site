@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import data from '../../data/contact';
 
-const Nav = () => (git 
+const Nav = () => (
   <section id='sidebar'>
     <section id='intro'>
       <Link to='/' className='logo'>
@@ -13,24 +13,22 @@ const Nav = () => (git
       </Link>
       <header>
         <h2>Luc Saunders</h2>
-        <p>
-          <a href='mailto:lucsaunders@gmail.com'>lucsaunders@gmail.com</a>
-        </p>
       </header>
     </section>
 
     <section className='blurb'>
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Luc. I like solving problems with creative logic. I also
-        like to create.
-      </p>
-      <p>
-        I&apos;m a graduate of the University of North Carolina at Chapel Hill
+        Hi, I&apos;m Luc. I like solving problems, and I like to create. I like
+        to write, and I like to code. I work primarily in the MERN stack.
+        I&apos;m a graduate of the{' '}
+        <a href='https://www.unc.edu/'>
+          University of North Carolina at Chapel Hill
+        </a>{' '}
         and the <a href='https://www.projectshift.io/'>Project Shift</a>{' '}
-        Software Engineering Fellowship. Through the gift of innumerable
-        teachers both online and in person, my learning continues...
+        Software Engineering Fellowship.
       </p>
+
       <ul className='actions'>
         <li>
           {window.location.pathname !== `${BASE_PATH}/resume` ? (
