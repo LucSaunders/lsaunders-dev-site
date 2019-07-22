@@ -8,7 +8,6 @@ import About from './views/About';
 import Projects from './views/Projects';
 import Resume from './views/Resume';
 import Stats from './views/Stats';
-// import Contact from './views/Contact';
 
 import NotFound from './views/NotFound';
 
@@ -20,8 +19,8 @@ ReactDOM.render(
     <Switch>
       <Route exact path='/' component={Index} />
       <Route path='/about' component={About} />
-      <Route path='/resume' component={Resume} />
       <Route path='/projects' component={Projects} />
+      <Route path='/resume' component={Resume} />
       <Route path='/stats' component={Stats} />
 
       {/* Only useful in development mode */}

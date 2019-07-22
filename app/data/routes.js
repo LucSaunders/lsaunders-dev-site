@@ -6,15 +6,15 @@ const data = [
   },
   {
     path: '/about',
-    label: 'About'
-  },
-  {
-    path: '/resume',
-    label: 'Resume'
+    label: 'About Me'
   },
   {
     path: '/projects',
     label: 'Projects'
+  },
+  {
+    path: '/resume',
+    label: 'Resume'
   },
   {
     path: '/stats',

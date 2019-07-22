@@ -24,6 +24,7 @@ const About = () => (
           <h2>
             <Link to='/about'>About Me</Link>
           </h2>
+          <p>An editor turned coder</p>
         </div>
       </header>
       <ReactMarkdown
