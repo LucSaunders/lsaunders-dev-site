@@ -1,11 +1,11 @@
 const data = {
   location: {
-    label: 'Current city',
-    value: 'Durham, NC'
+    label: 'Cities I call "home"',
+    value: 'Durham, NC, and Charleston, SC'
   },
   countries: {
     label: 'Countries visited',
-    value: 10
+    value: 11
   },
   cats: {
     label: 'Cats',

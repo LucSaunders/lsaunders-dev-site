@@ -6,7 +6,7 @@ const data = [
   },
   {
     path: '/about',
-    label: 'About Me'
+    label: 'About'
   },
   {
     path: '/projects',

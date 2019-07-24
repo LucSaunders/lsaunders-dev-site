@@ -22,7 +22,7 @@ const About = () => (
       <header>
         <div className='title'>
           <h2>
-            <Link to='/about'>About Me</Link>
+            <Link to='/about'>About</Link>
           </h2>
           <p>An editor turned coder</p>
         </div>

@@ -14,7 +14,7 @@ const data = [
   },
   {
     label: 'Commits this year',
-    value: '350+'
+    value: '380+'
   },
   {
     label: 'Projects deployed',
