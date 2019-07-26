@@ -3,6 +3,7 @@ import faGithub from '@fortawesome/fontawesome-free-brands/faGithub';
 import faFacebook from '@fortawesome/fontawesome-free-brands/faFacebookF';
 import faSpotify from '@fortawesome/fontawesome-free-brands/faSpotify';
 import faMediumM from '@fortawesome/fontawesome-free-brands/faMediumM';
+import faEnvelope from '@fortawesome/fontawesome-free-regular/faEnvelope';
 
 const data = [
   {
@@ -29,6 +30,11 @@ const data = [
     link: 'https://medium.com/@lucsaunders',
     label: 'Medium',
     icon: faMediumM
+  },
+  {
+    link: 'mailto:lucsaunders@gmail.com',
+    label: 'Email',
+    icon: faEnvelope
   }
 ];
 

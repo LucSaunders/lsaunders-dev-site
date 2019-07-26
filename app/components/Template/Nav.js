@@ -19,7 +19,7 @@ const Nav = () => (
     <section className='blurb'>
       <p>
         Hi, I&apos;m Luc. I like solving problems through creativity and code. I
-        work primarily in React, REST / GraphQL, and Node, with relational and
+        work primarily in React and Node, with relational and
         NoSQL databases. I&apos;m a graduate of the{' '}
         <a href='https://www.unc.edu/'>
           University of North Carolina at Chapel Hill
