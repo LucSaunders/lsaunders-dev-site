@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'Project Shift',
-    degree: 'Software Engineering Fellowship',
+    degree: 'Full-Stack Software Engineering Fellow',
     link: 'https://www.projectshift.io/',
     year: 'Durham, NC'
   },
