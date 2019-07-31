@@ -2,7 +2,7 @@ const data = {
   birthplace: {
     label: 'Birthplace',
     value:
-      "Rocky Mount, NC (or Testament, VA, if you're reading On The Road by Jack Kerouac)"
+      "Rocky Mount, NC"
   },
   location: {
     label: 'Cities I currently call "home"',
@@ -19,10 +19,6 @@ const data = {
   cats: {
     label: 'Cats',
     value: 2
-  },
-  guitars: {
-    label: 'Guitars',
-    value: '4'
   },
   publications: {
     label: 'Publications',

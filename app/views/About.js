@@ -24,7 +24,7 @@ const About = () => (
           <h2>
             <Link to='/about'>About Me</Link>
           </h2>
-          <p>An editor turned coder</p>
+          <p>Full-stack JavaScript Developer</p>
         </div>
       </header>
       <ReactMarkdown
