@@ -39,6 +39,7 @@ const Nav = () => (
           </li>
         ))}
       </ul>
+      <p className="copyright">&copy; Luc Saunders</p>
     </section>
   </section>
 );
