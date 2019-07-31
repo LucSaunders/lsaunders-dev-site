@@ -12,7 +12,7 @@ import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
 import courses from '../data/resume/courses';
 
-const sections = ['Education', 'Experience', 'Coursework', 'References'];
+const sections = ['Education', 'Experience', 'Courses', 'References'];
 
 const Resume = () => (
   <Main>

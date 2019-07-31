@@ -48,88 +48,17 @@ const courses = [
     university: 'UNC-Chapel Hill'
   },
   {
-    title: ' Introduction to Data Analysis',
+    title: ' Intro to Data Analysis',
     number: 'STOR 151',
     link: 'https://catalog.unc.edu/courses/stor/',
     university: 'UNC-Chapel Hill'
   },
   {
-    title: ' Introduction to Probability',
+    title: ' Intro to Probability',
     number: 'STOR 435',
     link: 'https://catalog.unc.edu/courses/stor/',
     university: 'UNC-Chapel Hill'
   }
-  //{
-  //   title: 'Spacecraft Design',
-  //   number: 'AA 236A',
-  //   link: '',
-  //   university: 'UNC-Chapel Hill',
-  // }, {
-  //   title: 'Advanced Programming',
-  //   number: 'CME 212',
-  //   link: '',
-  //   university: 'UNC-Chapel Hill',
-  // }, {
-  //   title: 'Design Theory and Methodology',
-  //   number: 'MAE 397',
-  //   link: 'https://web.UNC-Chapel Hill.edu/group/designx_lab/cgi-bin/mainwiki/index.php/ME397_Design_Theory_%26_Methodology_Seminar',
-  //   university: 'UNC-Chapel Hill',
-  // }, {
-  //   title: 'Software Engineering Concepts',
-  //   number: 'CSE 442',
-  //   link: '',
-  //   university: 'Buffalo',
-  // }, {
-  //   title: 'Hardware/Software Integrated System Design',
-  //   number: 'CSE 453',
-  //   link: '',
-  //   university: 'Buffalo',
-  // }, {
-  //   title: 'Data Structures',
-  //   number: 'CS 250',
-  //   link: 'http://www.cse.buffalo.edu/~hungngo/classes/2013/Fall/250/',
-  //   university: 'Buffalo',
-  // }, {
-  //   title: 'Introduction to Digital Signal Processing',
-  //   number: 'EE 516',
-  //   link: '',
-  //   university: 'Buffalo',
-  // }, {
-  //   title: 'Computer Vision and Image Processing',
-  //   number: 'CSE 573',
-  //   link: 'http://cubs.buffalo.edu/~inwogu/teaching/Coursepage573_fa14/',
-  //   university: 'Buffalo',
-  // }, {
-  //   title: 'Realtime Embedded Systems',
-  //   number: 'CSE 321',
-  //   link: '',
-  //   university: 'Buffalo',
-  // }, {
-  //   title: 'Computer Architecture',
-  //   number: 'CSE 590',
-  //   link: 'http://www.cse.buffalo.edu/~stevko/courses/cse490/spring11/',
-  //   university: 'Buffalo',
-  // }, {
-  //   title: 'Small Data',
-  //   number: 'MS&E 226',
-  //   link: 'http://web.UNC-Chapel Hill.edu/class/msande226/',
-  //   university: 'UNC-Chapel Hill',
-  // }, {
-  //   title: 'Stochastic Control',
-  //   number: 'EE 266',
-  //   link: 'http://ee266.UNC-Chapel Hill.edu/',
-  //   university: 'UNC-Chapel Hill',
-  // }, {
-  //   title: 'Simulation',
-  //   number: 'MS&E 223',
-  //   link: 'http://web.UNC-Chapel Hill.edu/class/msande223/handout.htm',
-  //   university: 'UNC-Chapel Hill',
-  // }, {
-  //   title: 'Deep Learning for Natural Language Processing',
-  //   number: 'CS 224d',
-  //   link: 'http://cs224d.UNC-Chapel Hill.edu/',
-  //   university: 'UNC-Chapel Hill',
-  // },
 ];
 
 export default courses;
