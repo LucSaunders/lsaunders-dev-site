@@ -14,7 +14,7 @@ const data = [
   },
   {
     label: 'Commits this year',
-    value: '380+'
+    value: '400+'
   },
   {
     label: 'Projects deployed',
@@ -25,8 +25,8 @@ const data = [
   {
     label: 'This site last updated on',
     key: 'pushed_at',
-    value: dayjs().format('MMMM D, YYYY'),
-    link: 'https://github.com/lucsaunders/lsaunders-dev-site'
+    value: dayjs().format('MMMM D, YYYY')
+    // link: 'https://github.com/lucsaunders/lsaunders-dev-site'
   }
 ];
 

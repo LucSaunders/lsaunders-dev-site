@@ -1,17 +1,17 @@
 const data = {
-  birthplace: {
-    label: 'Birthplace',
-    value:
-      "Rocky Mount, NC"
-  },
+  // birthplace: {
+  //   label: 'Birthplace',
+  //   value:
+  //     "Rocky Mount, NC"
+  // },
   location: {
     label: 'Cities I currently call "home"',
     value: 'Durham, NC, and Charleston, SC'
   },
-  countries: {
-    label: 'Countries visited',
-    value: 11
-  },
+  // countries: {
+  //   label: 'Countries visited',
+  //   value: 11
+  // },
   siblings: {
     label: 'Siblings',
     value: 1
