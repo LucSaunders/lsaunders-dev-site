@@ -12,7 +12,7 @@ const handleProps = ({ categories, skills }) => ({
         ...obj,
         [key]: false
       }),
-      { JavaScript: false }
+      { Wireframing: false }
     ),
   skills: skills.map(skill =>
     Object.assign(skill, {

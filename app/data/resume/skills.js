@@ -3,39 +3,63 @@ export const categories = [
   {
     name: 'HTML'
   },
+
   {
     name: 'CSS'
   },
+
   {
     name: 'CSS Grid'
   },
-  { name: 'CSS Flexbox' },
+
+  {
+    name: 'CSS Flexbox'
+  },
+
   {
     name: 'SASS/SCSS'
   },
+
   {
     name: 'Bootstrap'
   },
+
+  {
+    name: 'JavaScript'
+  },
+
   {
     name: 'jQuery'
   },
+
   {
     name: 'React'
   },
-  { name: 'Redux' },
+
+  {
+    name: 'Redux'
+  },
+
   {
     name: 'Backbone'
   },
+
   {
     name: 'GraphQL'
   },
+
   {
     name: 'Apollo'
   },
-  { name: 'REST' },
+
+  {
+    name: 'REST'
+  },
+
   {
     name: 'Node'
   },
+
   {
     name: 'Express'
   },
@@ -43,37 +67,31 @@ export const categories = [
   {
     name: 'Mongo'
   },
-  {
-    name: 'MySQL',
 
-    category: ['Databases']
-  },
   {
-    name: 'PostgreSQL',
-
-    category: ['Databases']
+    name: 'MySQL'
   },
+
   {
-    name: 'Firebase',
-
-    category: ['Databases']
+    name: 'PostgreSQL'
   },
+
+  {
+    name: 'Firebase'
+  },
+
   {
     name: 'Heroku'
   },
-  {
-    name: 'Git',
 
-    category: ['Tools']
-  },
   {
-    name: 'Wireframing',
-
-    category: ['Design']
+    name: 'Git'
   },
+
   {
     name: 'Chai'
   },
+
   {
     name: 'Mocha'
   },
