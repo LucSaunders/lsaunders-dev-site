@@ -13,9 +13,7 @@ const Stats = () => (
     <article className='post' id='stats'>
       <header>
         <div className='title'>
-          <h2>
-            <Link to='/stats'>Stats</Link>
-          </h2>
+          <h2>Stats</h2>
           <p>Data of a personal nature</p>
         </div>
       </header>

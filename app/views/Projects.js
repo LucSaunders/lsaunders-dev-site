@@ -13,9 +13,7 @@ const Projects = () => (
     <article className='post' id='projects'>
       <header>
         <div className='title'>
-          <h2>
-            <Link to='/projects'>Projects</Link>
-          </h2>
+          <h2>Projects</h2>
           <p>A selection of my recent work</p>
         </div>
       </header>

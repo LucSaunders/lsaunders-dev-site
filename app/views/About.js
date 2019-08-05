@@ -21,10 +21,8 @@ const About = () => (
     <article className='post' id='about'>
       <header>
         <div className='title'>
-          <h2>
-            <Link to='/about'>About Me</Link>
-          </h2>
-          <p>Full-stack JavaScript Developer</p>
+          <h2>About Me</h2>
+          <p>Full-Stack JavaScript Developer</p>
         </div>
       </header>
       <ReactMarkdown
