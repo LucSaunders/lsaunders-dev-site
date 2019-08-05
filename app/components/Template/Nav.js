@@ -20,11 +20,13 @@ const Nav = () => (
       <p>
         Hi, I&apos;m Luc. I like solving problems through creativity and code. I
         work primarily in React and Node, with relational and non-relational
-        databases. I&apos;m a graduate of the{' '}
+        databases.{' '} 
+        {/* I also like to write, with a focus on psychology, digital anthropology, and personal growth.  */}
+         I&apos;m a graduate of the{' '}
         <a href='https://www.unc.edu/'>
           University of North Carolina at Chapel Hill
         </a>{' '}
-        and the <a href='https://www.projectshift.io/'>Project Shift</a>{' '}
+        and the{' '}<a href='https://www.projectshift.io/'>Project Shift</a>{' '}
         Software Engineering Fellowship.
       </p>
     </section>
@@ -39,7 +41,7 @@ const Nav = () => (
           </li>
         ))}
       </ul>
-      <p className="copyright">&copy; Luc Saunders</p>
+      <p className='copyright'>&copy; Luc Saunders</p>
     </section>
   </section>
 );
