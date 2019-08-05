@@ -9,7 +9,7 @@ const positions = [
       'Developed optimized front-end apps by handling MVC data flow',
       'Engineered back-end apps and RESTful APIs using Node with Express',
       'Programmed 20+ web projects independently, via pair-programming, and in a team utilizing Agile methodologies',
-      'Performed extensive self-directed study of GraphQL and associated packages',
+      'Performed extensive self-directed study of GraphQL and associated npm packages',
       'Completed projects integrating computer science principles and current industry best practices'
     ]
   },
@@ -25,7 +25,7 @@ const positions = [
       'Assisted on a major website redesign, a transition from print to digital media, and indexing',
       'Provided original ideas, phrasing, and editing of marketing materials',
       'Performed developmental editing and copyediting for in-house book-publishing efforts',
-      'Continued leadership of two departments in the magazine: The Dog-Eared Page (reprints of classics) and Sunbeams (quotes)'
+      'Continued leadership of two departments in the magazine: The Dog-Eared Page (excerpts from classics) and Sunbeams (quotes)'
     ]
   },
   {
@@ -34,8 +34,9 @@ const positions = [
     link: 'https://www.thesunmagazine.org',
     daterange: 'September 2009 - December 2011',
     points: [
-      'Created and led a new department in the magazine: The Dog-Eared Page, featuring reprints of classics',
-      'Oversaw curation of quotes for the last page of the magazine in each issue (Sunbeams)',
+      'Created and led a new department in the magazine: The Dog-Eared Page, featuring excerpts from classics',
+      'Managed permissions requests and payments for serial rights of reprints',
+      'Curated quotes for the last page of the magazine in each issue (Sunbeams)',
       'Fact-checked, copyedited, and proofread issues after design',
       'Led writing workshops'
     ]
@@ -47,9 +48,9 @@ const positions = [
     daterange: 'September 2003 - August 2009',
     points: [
       'Read, evaluated, and edited manuscript submissions for publication',
-      'Provided phone and email support for contributors and subscribers',
-      'Maintained warehouse of back issues, book inventory, and supplies',
-      'Assisted Founder & Publisher as needed'
+      'Oversaw correspondence and donations for annual fundraising drive',
+      'Provided phone, email, and postal mail support for contributors and subscribers',
+      'Maintained warehouse of back issues, book inventory, and supplies'
     ]
   },
   {
@@ -65,7 +66,7 @@ const positions = [
   // {
   //   company: 'United Nations Environment Programme, Nairobi, Kenya',
   //   position: 'College Research Intern',
-  //   link: 'https://facebook.com',
+  //   link: '#',
   //   daterange: 'May 1998 - July 1998',
   //   points: [
   //     'Performed research on climate change',

@@ -19,6 +19,9 @@ const Projects = () => (
           <p>A selection of my recent work</p>
         </div>
       </header>
+      <div>
+        <p><i>I have a couple of exciting full-stack projects currently in development, which I'll add to this page after they're complete, so please be sure to check back here in the coming weeks.</i> </p>
+      </div>
       {data.map(project => (
         <Cell data={project} key={project.title} />
       ))}
