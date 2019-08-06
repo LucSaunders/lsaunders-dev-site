@@ -13,9 +13,7 @@ const Nav = () => (
       </Link>
 
       <header>
-        <div className='title'>
-          <h2>Luc Saunders</h2>
-        </div>
+        <h3>Luc Saunders</h3>
       </header>
     </section>
 
@@ -32,6 +30,20 @@ const Nav = () => (
         and the <a href='https://www.projectshift.io/'>Project Shift</a>{' '}
         Software Engineering Fellowship.
       </p>
+
+      <ul className='actions'>
+        <li>
+          {window.location.pathname !== `${BASE_PATH}/about` ? (
+            <Link to='/about' className='button'>
+              Learn more
+            </Link>
+          ) : (
+            <Link to='/resume' className='button'>
+              Learn more
+            </Link>
+          )}
+        </li>
+      </ul>
     </section>
 
     <section id='footer'>
@@ -44,7 +56,9 @@ const Nav = () => (
           </li>
         ))}
       </ul>
-      <p className='copyright'>&copy; Luc Saunders</p>
+      <p className='copyright'>
+        &copy; Luc Saunders <Link to='/'>lucsaunders.com</Link>.
+      </p>
     </section>
   </section>
 );
