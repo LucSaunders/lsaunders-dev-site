@@ -1,3 +1,5 @@
+// Skillsbar currently unused. Saved for future use.
+
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
@@ -45,27 +47,24 @@ class Skills extends Component {
       this.state.buttons[key] ? key : cat
     );
 
-    return (
-      this.state.skills
-        .sort((a, b) => {
-          let ret = 0;
-          if (a.compentency > b.compentency) ret = -1;
-          else if (a.compentency < b.compentency) ret = 1;
-          else if (a.category[0] > b.category[0]) ret = -1;
-          else if (a.category[0] < b.category[0]) ret = 1;
-          else if (a.title > b.title) ret = 1;
-          else if (a.title < b.title) ret = -1;
-          return ret;
-        })
-        // .filter(skill => actCat === 'All' || skill.category.includes(actCat))
-        .map(skill => (
-          <SkillBar
-            categories={this.props.categories}
-            data={skill}
-            key={skill.title}
-          />
-        ))
-    );
+    return this.state.skills
+      .sort((a, b) => {
+        let ret = 0;
+        if (a.compentency > b.compentency) ret = -1;
+        else if (a.compentency < b.compentency) ret = 1;
+        else if (a.category[0] > b.category[0]) ret = -1;
+        else if (a.category[0] < b.category[0]) ret = 1;
+        else if (a.title > b.title) ret = 1;
+        else if (a.title < b.title) ret = -1;
+        return ret;
+      })
+      .map(skill => (
+        <SkillBar
+          categories={this.props.categories}
+          data={skill}
+          key={skill.title}
+        />
+      ));
   }
 
   getButtons() {
@@ -89,8 +88,7 @@ class Skills extends Component {
         }),
         {}
       );
-      // Turn on 'All' button if other buttons are off
-      // buttons.All = !Object.keys(prevState.buttons).some(key => buttons[key]);
+
       return { buttons };
     });
   };
@@ -101,7 +99,6 @@ class Skills extends Component {
         <div className='link-to' id='skills' />
         <div className='title'>
           <h3>Skills</h3>
-          {/* <p>Note: I think these sections are silly, but everyone seems to have one.</p> */}
         </div>
         <div className='skill-button-container'>{this.getButtons()}</div>
         <div className='skill-row-container'>{this.getRows()}</div>
