@@ -42,7 +42,7 @@ const data = [
     image: '/images/projects/axon.jpg',
     date: '2019-05-10',
     desc:
-      'Axon is a Customer Relationship Management tool for tracking company revenue, current and past clients, and deals in various stages. The frontend was designed with React, Redux, and Sass. The backend is written in Node and utilizes the Express framework and a MySQL database. This application was developed by an eleven-member team of Project Shift software-engineering fellows.'
+      'A Customer Relationship Management tool for tracking company revenue, clients, and deals. Developed by an eleven-member team of Project Shift software-engineering fellows. Sass | React | Redux | Node | Express | MySQL'
   }
 ];
 

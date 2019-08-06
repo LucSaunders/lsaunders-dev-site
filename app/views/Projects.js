@@ -19,7 +19,7 @@ const Projects = () => (
       </header>
       <section className='blurb'>
         <p>
-          I have a couple of exciting full-stack projects currently in
+          I have a couple of exciting, original full-stack projects in
           development, which I'll add to this page once they're complete. Please
           be sure to check back here in the coming weeks.
         </p>

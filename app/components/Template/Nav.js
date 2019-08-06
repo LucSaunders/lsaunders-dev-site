@@ -11,10 +11,12 @@ const Nav = () => (
       <Link to='/' className='logo'>
         <img src={`${BASE_PATH}/images/me_icon.jpg`} alt='' />
       </Link>
+
       <header>
-        <h2>Luc Saunders</h2>
+        <div className='title'>
+          <h2>Luc Saunders</h2>
+        </div>
       </header>
-      <p className='title'>Full-Stack JavaScript Developer</p>
     </section>
 
     <section className='blurb'>
