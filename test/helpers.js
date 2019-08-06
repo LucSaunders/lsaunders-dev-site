@@ -26,11 +26,6 @@ const pages = [
     route: '/stats',
     title: 'Stats | Luc Saunders',
     heading: 'STATS'
-  },
-  {
-    route: '/contact',
-    title: 'Contact | Luc Saunders',
-    heading: 'CONTACT'
   }
 ];
 
