@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import Helmet from 'react-helmet';
 
 import Main from '../layouts/Main';
@@ -34,15 +33,15 @@ const Resume = () => (
         </div>
       </header>
       <Education data={degrees} />
-      <br></br>
+      <br />
       <Experience data={positions} />
-      <br></br>
+      <br />
       <Skills skills={skills} categories={categories} />
-      <br></br>
+      <br />
       <Courses data={courses} />
-      <br></br>
+      <br />
       <References />
-      <br></br>
+      <br />
     </article>
   </Main>
 );
