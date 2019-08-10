@@ -26,15 +26,15 @@ const data = [
     desc:
       'Track the history and statistics of SpaceX rocket launches. React | GraphQL | SpaceX API.'
   },
-  // {
-  //   title: 'Contact Organizer',
-  //   subtitle: '',
-  //   link: 'https://lucsaunders.github.io/contact-organizer',
-  //   image: '/images/projects/contactorganizer.jpg',
-  //   date: '2019-03-25',
-  //   desc:
-  //     'Manage personal contacts. (Full CRUD. For demo purposes only.) React | Context API'
-  // },
+  {
+    title: 'Contact Organizer',
+    subtitle: '',
+    link: 'https://lucsaunders.github.io/contact-organizer',
+    image: '/images/projects/contactorganizer.jpg',
+    date: '2019-03-25',
+    desc:
+      'Manage personal contacts. (Full CRUD. For demo purposes only.) React | Context API'
+  },
   {
     title: 'Axon',
     subtitle: 'A Hubspot clone ',
