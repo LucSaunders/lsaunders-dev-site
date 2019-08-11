@@ -13,10 +13,10 @@ const Nav = () => (
       </Link>
 
       <header>
-        <h2>Luc Saunders</h2>
-        <p>
+        <h3>Luc Saunders</h3>
+        {/* <p>
           <a href='mailto:lucsaunders@gmail.com'>lucsaunders@gmail.com</a>
-        </p>
+        </p> */}
       </header>
     </section>
 

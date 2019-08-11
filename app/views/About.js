@@ -22,7 +22,7 @@ const About = () => (
       <header>
         <div className='title'>
           <h2>About Me</h2>
-          <p>Full-Stack JavaScript Developer</p>
+          <p>Software Engineer <strong>|</strong> Editor <strong>|</strong> Writer</p>
         </div>
       </header>
       <ReactMarkdown

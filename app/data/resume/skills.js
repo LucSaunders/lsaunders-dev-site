@@ -32,6 +32,10 @@ export const categories = [
     name: 'jQuery'
   },
 
+  { 
+    name: 'Handlebars'
+  },
+
   {
     name: 'React'
   },
