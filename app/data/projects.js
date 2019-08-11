@@ -1,14 +1,14 @@
 // Data for project page
 const data = [
-  // {
-  //   title: 'The Social Writer',
-  //   subtitle: 'Connecting writers online',
-  //   link: '#',
-  //   image: '/images/projects/thesocialwriter.jpg',
-  //   date: '2019-07-30',
-  //   desc:
-  //     'A full-stack CRUD app with authentication and persistant data. React | Redux | Express | Node | Mongo'
-  // },
+  {
+    title: 'The Social Writer',
+    subtitle: 'Connecting writers online',
+    link: '#',
+    image: '/images/projects/thesocialwriter.jpg',
+    date: '2019-07-30',
+    desc:
+      'A full-stack CRUD app with authentication and persistant data. React | Redux | Express | Node | Mongo'
+  },
   {
     title: 'Lyrica',
     subtitle: 'Search for song lyrics',
