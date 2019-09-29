@@ -7,7 +7,7 @@ My completed college coursework includes a degree in communication studies with 
 An eager learner, I follow new developments in tech through a variety of outlets and experiment with them hands-on when I'm so compelled. Some of my past projects are deployed at GitHub Pages and on Heroku. My current projects include a MERN-stack social site for writers and a HackerNews clone built with Node, Prisma, GraphQL, and React.
 <br><br><br>
 
-#### My Journey: Editor to Software Engineer
+#### My Journey: Editor to Software Developer
 
 I am a language and communication enthusiast. This has led me to work on publication efforts for the United Nations in Kenya, to develop and teach a college-level English curriculum at a university in Thailand, and to serve as a longtime editor for the independent literary magazine [_The Sun_](https://thesunmagazine.org).
 <br><br>

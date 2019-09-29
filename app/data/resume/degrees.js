@@ -10,6 +10,12 @@ const degrees = [
     degree: 'B.A. Communication Studies, Media Production',
     link: 'https://www.unc.edu/',
     year: 'Chapel Hill, NC'
+  },
+  {
+    school: 'Duke University',
+    degree: 'Certificate Program in Technical Writing (currently enrolled)',
+    link: 'https://learnmore.duke.edu/search/publicCourseSearchDetails.do;jsessionid=4B64B40813C05274E860C948A4E9BADD?method=load&courseId=92783',
+    year: 'Durham, NC'
   }
 ];
 

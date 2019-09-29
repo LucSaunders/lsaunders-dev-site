@@ -31,7 +31,7 @@ const Nav = () => (
           University of North Carolina at Chapel Hill
         </a>{' '}
         and the <a href='https://www.projectshift.io/'>Project Shift</a>{' '}
-        Software Engineering Fellowship.
+        Software Engineering Fellowship and am currently enrolled in the <a href='https://learnmore.duke.edu/search/publicCourseSearchDetails.do;jsessionid=4B64B40813C05274E860C948A4E9BADD?method=load&courseId=92783'>Technical Writing Program</a> at Duke University. 
       </p>
 
       <ul className='actions'>

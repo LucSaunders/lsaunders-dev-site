@@ -1,11 +1,11 @@
 // TODO: Add Soft Skills, Office Skills, Editing/Writing Skills, Athletic Skills,  (?)
 export const categories = [
   {
-    name: 'HTML'
+    name: 'HTML / HTML5'
   },
 
   {
-    name: 'CSS'
+    name: 'CSS / CSS3'
   },
 
   {
@@ -17,7 +17,7 @@ export const categories = [
   },
 
   {
-    name: 'SASS/SCSS'
+    name: 'SASS / SCSS'
   },
 
   {
@@ -32,8 +32,12 @@ export const categories = [
     name: 'jQuery'
   },
 
-  { 
+  {
     name: 'Handlebars'
+  },
+
+  {
+    name: 'Backbone'
   },
 
   {
@@ -45,7 +49,15 @@ export const categories = [
   },
 
   {
-    name: 'Backbone'
+    name: 'Highcharts'
+  },
+
+  {
+    name: 'AJAX'
+  },
+
+  {
+    name: 'REST'
   },
 
   {
@@ -57,10 +69,6 @@ export const categories = [
   },
 
   {
-    name: 'REST'
-  },
-
-  {
     name: 'Node'
   },
 
@@ -69,7 +77,11 @@ export const categories = [
   },
 
   {
-    name: 'Mongo'
+    name: 'Mongoose'
+  },
+
+  {
+    name: 'MongoDB'
   },
 
   {
@@ -93,7 +105,7 @@ export const categories = [
   },
 
   {
-    name: 'Chai'
+    name: 'GitHub'
   },
 
   {
@@ -101,7 +113,19 @@ export const categories = [
   },
 
   {
+    name: 'Chai'
+  },
+
+  {
     name: 'Swagger'
+  },
+
+  {
+    name: 'Web Analytics'
+  },
+
+  {
+    name: 'Scrum / Agile'
   }
 ];
 
