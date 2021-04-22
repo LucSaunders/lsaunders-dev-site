@@ -14,15 +14,14 @@ const Index = () => (
       </header>
       <p>
         {' '}
-        Welcome to my website. You can read <Link to='/about'>about me </Link>
-        or view my <Link to='/projects'>projects</Link>, my{' '}
-        <Link to='/resume'>resume</Link>, or my{' '}
-        <Link to='/stats'> personal stats</Link>.
+        Welcome to my website. You can read <Link to='/about'>about me, </Link>
+        check out some of my <Link to='/projects'>projects</Link>, or view my{' '}
+        <Link to='/resume'>resume</Link>.
       </p>
       <p>
         {' '}
-        Site source code available{' '}
-        <a href='https://github.com/lucsaunders/lsaunders-dev-site'>here</a>.
+        (Site source code available{' '}
+        <a href='https://github.com/lucsaunders/lsaunders-dev-site'>here</a>.)
       </p>
     </article>
   </Main>

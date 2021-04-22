@@ -22,16 +22,8 @@ const Nav = () => (
 
     <section className='blurb'>
       <p>
-        Hi, I&apos;m Luc. I like solving problems through creativity and code. I
-        work primarily in React and Node, with relational and non-relational
-        databases.{' '}
-        {/* I also like to write, with a focus on psychology, digital anthropology, and personal growth.  */}
-        I&apos;m a graduate of the{' '}
-        <a href='https://www.unc.edu/'>
-          University of North Carolina at Chapel Hill
-        </a>{' '}
-        and the <a href='https://www.projectshift.io/'>Project Shift</a>{' '}
-        Software Engineering Fellowship and am currently enrolled in the <a href='https://learnmore.duke.edu/search/publicCourseSearchDetails.do;jsessionid=4B64B40813C05274E860C948A4E9BADD?method=load&courseId=92783'>Technical Writing Program</a> at Duke University. 
+        Hi, I&apos;m Luc. I like solving problems through communication, creativity, and code. I
+        work primarily in React and Node, with expertise in the Twilio suite of products and services.
       </p>
 
       <ul className='actions'>

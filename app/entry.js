@@ -7,7 +7,7 @@ import Index from './views/Index';
 import About from './views/About';
 import Projects from './views/Projects';
 import Resume from './views/Resume';
-import Stats from './views/Stats';
+// import Stats from './views/Stats';
 
 import NotFound from './views/NotFound';
 
@@ -21,7 +21,7 @@ ReactDOM.render(
       <Route path='/about' component={About} />
       <Route path='/projects' component={Projects} />
       <Route path='/resume' component={Resume} />
-      <Route path='/stats' component={Stats} />
+      {/* <Route path='/stats' component={Stats} /> */}
 
       {/* Only useful in development mode */}
       <Route component={NotFound} status={404} />

@@ -15,10 +15,6 @@ const data = [
   {
     path: '/resume',
     label: 'Resume'
-  },
-  {
-    path: '/stats',
-    label: 'Stats'
   }
 ];
 

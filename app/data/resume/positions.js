@@ -1,20 +1,20 @@
 const positions = [
   {
-    company: 'Project Shift, Durham, NC',
-    position: 'Full-Stack Software Engineering Fellow',
-    link: 'https://www.projectshift.io',
-    daterange: 'February 2019 - June 2019',
+    company: 'Terazo, Durham, NC',
+    position: 'Software Engineer',
+    link: 'https://www.terazo.com',
+    daterange: 'October 2019 - present',
     points: [
-      'Engaged in 800+ hours of learning and coding full-stack applications in competitive full-time immersive certificate program', 
-      'Developed optimized front-end applications by handling MV* / MVC data flow',
-      'Engineered back-end applications with RESTful APIs using Node with Express, documented with Swagger 2.0 specifications',
-      'Integrated relational and nonrelational databases to persist user-entered data, with authentication using JSON Web Tokens and Passport',  
-      'Created and ran unit tests with Mocha/Chai, abiding Test-Driven Development conventions',
-      'Utilized Git and GitHub for version control',
-      'Programmed 20+ web projects in independent and pair-programming contexts, and in an eleven-member team utilizing Agile methodologies',
-      'Implemented GraphQL in original MERN-stack capstone application, a platform for open-source writing projects, modeled after the GitHub paradigm ',
-      'Completed projects integrating computer science principles and industry best practices ',
-      'Served on a panel addressing current trends in software engineering and approaches to learning and applying new technologies'
+      'Integrated Twilio Flex within ServiceNow for a healthcare network, standardizing and streamlining ITSM for 9000+ employees in 50+ hospitals and healthcare facilities. KEY FEATURES: centralized IVR, scripted REST APIs in Twilio and ServiceNow, automated ServiceNow ticket generation, custom data views and analytics reporting.', 
+      'Developed an online video proctoring PoC for a test-certification company, accelerating transition from onsite test-administration. KEY FEATURES: custom UI with reusable React components, omnichannel communications leveraging Twilio Flex and TaskRouter.',
+      'Set up a Twilio Flex contact center for a hospital, enabling priority call routing, conferencing, transfers, and automated vaccine scheduling to maximize agent productivity. KEY FEATURES: Google Dialogflow, Azure Dev-Ops,   ',
+      'Built a bilingual SMS chatbot for a retailer billing service. KEY FEATURES: SMS IVR, Twilio Autopilot, NLP.',
+      'Automated and optimized financial report generation for a credit lender, boosting loan opportunities. KEY FEATURES: cloud-native microservices leveraging AWS Lambda, Step Functions, and Aurora.',
+      'Provided consultation support and strategies for multiple clients migrating to cloud-native architecture.', 
+  
+      
+      'Developed optimized front-end applications by handling MV* / MVC data flow... documented with Swagger 2.0 specifications... Created and ran unit tests with Mocha/Chai, abiding Test-Driven Development conventions',
+      'Utilized Git and GitHub for version control Agile methodologies industry best practices '
     ]
   },
   {

@@ -1,49 +1,40 @@
 // Data for project page
 const data = [
+  {
+    title: 'Remote Proctoring for a Test Certification Company',
+    subtitle: 'A Secure, Compliant, Reliable Customer Service Platform using Twilio Flex',
+    link: 'https://terazo.com/case-studies/developing-secure-compliant-and-reliable-customer-service-platforms-using-twilio-flex/',
+    image: '/images/projects/test-proctor.jpg',
+    date: '2020-11-30',
+    desc:
+      'Twilio Flex | React | Redux | Node | Azure'
+  },
+  {
+    title: 'Custom Integration for a Medical IT Service Desk',
+    subtitle: 'Integrating Twilio Flex with ServiceNow',
+    link: 'https://terazo.com/case-studies/integrating-twilio-flex-with-servicenow-in-support-of-a-medical-it-service-desk/',
+    image: '/images/projects/national-cancer-institute.jpg',
+    date: '2020-05-12',
+    desc:
+      'Twilio Flex | React | Redux | Express | Node | ServiceNow'
+  },
+  {
+    title: 'Report Generation for a Specialty Credit Lender',
+    subtitle: 'Modernizing The Business Flow And Report-Generation Process',
+    link: 'https://terazo.com/case-studies/modernizing-the-business-flow-and-report-generation-process/',
+    image: '/images/projects/report-generation.jpg',
+    date: '2019-11-20',
+    desc: 'Python | Pandas | AWS Lambda | AWS Step Functions | AWS S3'
+  },
   // {
-  //   title: 'The Social Writer',
-  //   subtitle: 'Connecting writers online',
-  //   link: '#',
-  //   image: '/images/projects/thesocialwriter.jpg',
-  //   date: '2019-07-30',
+  //   title: 'Customer Relationship Management tool',
+  //   subtitle: 'A Hubspot clone ',
+  //   link: 'https://project-hubspot.herokuapp.com/dashboard',
+  //   image: '/images/projects/axon.jpg',
+  //   date: '2019-05-10',
   //   desc:
-  //     'A full-stack CRUD app with authentication and persistant data. React | Redux | Express | Node | Mongo'
-  // },
-  {
-    title: 'Lyrica',
-    subtitle: 'Search for song lyrics',
-    link: 'https://lucsaunders.github.io/song-lyric-search/#/',
-    image: '/images/projects/lyrica.jpg',
-    date: '2019-06-27',
-    desc: 'Search for lyrics to almost any song. React | Musicmatch API'
-  },
-  {
-    title: 'SpaceX Launch Missions',
-    subtitle: 'Tracking successful and failed SpaceX rocket launches.',
-    link: 'https://spacex-missions-gql.herokuapp.com/',
-    image: '/images/projects/spacex.jpg',
-    date: '2019-06-25',
-    desc:
-      'Track the history and statistics of SpaceX rocket launches. React | GraphQL | SpaceX API.'
-  },
-  {
-    title: 'Contact Organizer',
-    subtitle: 'A personal contact organizer',
-    link: 'https://lucsaunders.github.io/contact-organizer',
-    image: '/images/projects/contactorganizer.jpg',
-    date: '2019-03-25',
-    desc:
-      'Manage personal contacts. (Full CRUD. For demo purposes only.) React | Context API'
-  },
-  {
-    title: 'Axon',
-    subtitle: 'A Hubspot clone ',
-    link: 'https://project-hubspot.herokuapp.com/dashboard',
-    image: '/images/projects/axon.jpg',
-    date: '2019-05-10',
-    desc:
-      'A Customer Relationship Management tool for tracking company revenue, clients, and deals. Developed by an eleven-member team of Project Shift software-engineering fellows. Sass | React | Redux | Node | Express | MySQL'
-  }
+  //     'Sass | React | Redux | MyCharts | Node | Express | MySQL'
+  // }
 ];
 
 export default data;
