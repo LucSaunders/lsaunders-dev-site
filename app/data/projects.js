@@ -25,16 +25,7 @@ const data = [
     image: '/images/projects/report-generation.jpg',
     date: '2019-11-20',
     desc: 'Python | Pandas | AWS Lambda | AWS Step Functions | AWS S3'
-  },
-  // {
-  //   title: 'Customer Relationship Management tool',
-  //   subtitle: 'A Hubspot clone ',
-  //   link: 'https://project-hubspot.herokuapp.com/dashboard',
-  //   image: '/images/projects/axon.jpg',
-  //   date: '2019-05-10',
-  //   desc:
-  //     'Sass | React | Redux | MyCharts | Node | Express | MySQL'
-  // }
+  }
 ];
 
 export default data;

@@ -5,16 +5,14 @@ const positions = [
     link: 'https://www.terazo.com',
     daterange: 'October 2019 - present',
     points: [
-      'Integrated Twilio Flex within ServiceNow for a healthcare network, standardizing and streamlining ITSM for 9000+ employees in 50+ hospitals and healthcare facilities. KEY FEATURES: centralized IVR, scripted REST APIs in Twilio and ServiceNow, automated ServiceNow ticket generation, custom data views and analytics reporting.', 
-      'Developed an online video proctoring PoC for a test-certification company, accelerating transition from onsite test-administration. KEY FEATURES: custom UI with reusable React components, omnichannel communications leveraging Twilio Flex and TaskRouter.',
-      'Set up a Twilio Flex contact center for a hospital, enabling priority call routing, conferencing, transfers, and automated vaccine scheduling to maximize agent productivity. KEY FEATURES: Google Dialogflow, Azure Dev-Ops,   ',
-      'Built a bilingual SMS chatbot for a retailer billing service. KEY FEATURES: SMS IVR, Twilio Autopilot, NLP.',
-      'Automated and optimized financial report generation for a credit lender, boosting loan opportunities. KEY FEATURES: cloud-native microservices leveraging AWS Lambda, Step Functions, and Aurora.',
-      'Provided consultation support and strategies for multiple clients migrating to cloud-native architecture.', 
-  
-      
-      'Developed optimized front-end applications by handling MV* / MVC data flow... documented with Swagger 2.0 specifications... Created and ran unit tests with Mocha/Chai, abiding Test-Driven Development conventions',
-      'Utilized Git and GitHub for version control Agile methodologies industry best practices '
+      'Integrated Twilio Flex within ServiceNow for a healthcare network, standardizing and streamlining ITSM for 9000+ employees in 50+ hospitals and healthcare facilities. (Solo dev) KEY FEATURES: centralized IVR, scripted REST APIs in Twilio and ServiceNow, automated ServiceNow ticket generation, custom data views and analytics reporting.', 
+      'Set up a Twilio Flex contact center for a hospital, enabling priority call routing, conferencing, transfers, and a PoC for automated vaccine scheduling via SMS. (Scrum team of 10) KEY FEATURES: Twilio IVR integrated with Google Dialogflow, Azure Dev-Ops.',
+      'Developed an online video proctoring PoC for a test-certification company, accelerating transition from onsite test-administration. (Scrum team of 6) KEY FEATURES: custom UI with reusable React components, omnichannel communications leveraging Twilio Flex and TaskRouter.',
+      'Built a bilingual SMS chatbot PoC for a retail billing service. (Team of 3) KEY FEATURES: SMS IVR, Twilio Autopilot configured and NLP-trained.',
+      'Customized a Twilio Flex environment for a financial-services institution. (Solo dev) KEY FEATURES: omnichannel communications, skills-based Flex views and routing, AWS SQS leveraged for conversation storage.',
+      'Automated and optimized financial report generation for a credit lender, boosting loan opportunities. (Scrum team of 12) KEY FEATURES: cloud-native microservices leveraging AWS Lambda, Step Functions, and Aurora.',
+      'Provided documentation, consultation support, and strategies for migration to cloud-native architecture.',
+      'Followed Agile scrum processes and best practices, and, on smaller projects, carried out tech-lead, PM, and engagement-lead responsibilities.' 
     ]
   },
   {
