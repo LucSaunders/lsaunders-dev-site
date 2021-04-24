@@ -45,12 +45,12 @@
     }
   }
 
-  .courses {
+  .certifications {
     padding-top: 1.6em;
     .title {
       text-align: center;
     }
-    .course-list {
+    .certificate-list {
       text-align: center;
 
       h4 {
@@ -99,10 +99,10 @@
   }
 }
 
-.courses .course-number {
+.certifications .certificate-number {
   display: inline;
 }
-.courses .course-name {
+.certifications .certificate-name {
   display: inline;
   font-family: 'Raleway', Helvetica, sans-serif;
   font-size: 0.7em;
@@ -113,20 +113,20 @@
   text-transform: uppercase;
 }
 
-.courses ul li {
+.certifications ul li {
   display: inline;
 }
 
-.course-dot {
+.certificate-dot {
   display: inline;
   // display: none;
 }
 
 @include breakpoint(small) {
-  .course-dot {
+  .certificate-dot {
     display: none;
   }
-  .course-container a {
+  .certificate-container a {
     display: block;
   }
 }

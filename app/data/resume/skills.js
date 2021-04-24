@@ -1,132 +1,69 @@
-// TODO: Add Soft Skills, Office Skills, Editing/Writing Skills, Athletic Skills,  (?)
+
 export const categories = [
-  {
-    name: 'HTML / HTML5'
-  },
+      
+    {
+        name: 'Agile Scrum'
+    },
 
-  {
-    name: 'CSS / CSS3'
-  },
+    {
+      name: 'HTML / SASS / SCSS'
+    },
+  
+    {
+      name: 'JavaScript / TypeScript'
+    },
+  
+    {
+      name: 'React / Redux'
+    },
+  
+    {
+      name: 'RESTful APIs'
+    },
+  
+    {
+      name: 'GraphQL / Apollo'
+    },
+  
+    {
+      name: 'Node / Express'
+    },
 
-  {
-    name: 'CSS Grid'
-  },
+    {
+      name: 'Swagger / OpenAPI'
+    },
 
-  {
-    name: 'CSS Flexbox'
-  },
+    {
+      name: 'Terraform'
+    },
+  
+    {
+      name: 'Jest / Mocha / Chai'
+    },
 
-  {
-    name: 'SASS / SCSS'
-  },
+    
+    {
+      name: 'BDD / DDD / TDD'
+    },
+    
+    {
+        name: 'AWS'
+    },
 
-  {
-    name: 'Bootstrap'
-  },
+    {
+      name: 'Azure'
+    },
+    
+    {
+        name: 'Twilio / Flex'
+    },
 
-  {
-    name: 'JavaScript'
-  },
+    {
+        name: 'ServiceNow'
+    },
 
-  {
-    name: 'jQuery'
-  },
 
-  {
-    name: 'Handlebars'
-  },
-
-  {
-    name: 'Backbone'
-  },
-
-  {
-    name: 'React'
-  },
-
-  {
-    name: 'Redux'
-  },
-
-  {
-    name: 'Highcharts'
-  },
-
-  {
-    name: 'AJAX'
-  },
-
-  {
-    name: 'REST'
-  },
-
-  {
-    name: 'GraphQL'
-  },
-
-  {
-    name: 'Apollo'
-  },
-
-  {
-    name: 'Node'
-  },
-
-  {
-    name: 'Express'
-  },
-
-  {
-    name: 'Mongoose'
-  },
-
-  {
-    name: 'MongoDB'
-  },
-
-  {
-    name: 'MySQL'
-  },
-
-  {
-    name: 'PostgreSQL'
-  },
-
-  {
-    name: 'Firebase'
-  },
-
-  {
-    name: 'Heroku'
-  },
-
-  {
-    name: 'Git'
-  },
-
-  {
-    name: 'GitHub'
-  },
-
-  {
-    name: 'Mocha'
-  },
-
-  {
-    name: 'Chai'
-  },
-
-  {
-    name: 'Swagger'
-  },
-
-  {
-    name: 'Web Analytics'
-  },
-
-  {
-    name: 'Scrum / Agile'
-  }
-];
-
-export const skills = [];
+  ];
+  
+  export const skills = [];
+  
